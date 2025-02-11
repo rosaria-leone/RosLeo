@@ -8,12 +8,11 @@
   - [Emotion Detection on Twitter Challenge Open Data PlayGround](https://github.com/RosLeo/Emotion-Detection-Challenge-on-Twitter)
   - [Text Summarization with mBART](https://github.com/RosLeo/Text-summarization)
   - [Classification of European Union Laws into Chapters and Subchapters](https://github.com/RosLeo/ITADATAhack2023)
-  
 - <b> Reinforcement Learning (RL) 🌟 </b>
   - [Trading Algorithm using Q learning to Maximize Profits](https://github.com/RosLeo/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
   - [Statistics Analysis on mpg dataset](https://github.com/RosLeo/Statistica-e-Analisi-dei-Dati)
-- <b>GIS - Geographic information system 🌎</b>
+- <b>Geographic information system (GIS) 🌎</b>
   - [Distributori di carburante a Firenze](https://github.com/RosLeo/Distributori-di-carburante-a-Firenze)
   - [Open Source Web Map with QGIS](https://github.com/RosLeo/Open-Source-Web-Map-with-QGIS)
   
