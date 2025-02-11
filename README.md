@@ -8,7 +8,7 @@
   - [Emotion-Detection-on-Twitter Challenge Open Data PlayGround](https://github.com/giusgenito/Emotion-Detection-Challenge-on-Twitter)
   - [Text-Summarization with mBART](https://github.com/giusgenito/Text-Summarization)
 - <b> Reinforcement Learning (RL) 🌟 </b>
-  - [Trading-Algorithm-using-Q-learning-to-Maximize-Profits](https://github.com/giusgenito/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
+  - [Trading-Algorithm-using-Q-learning-to-Maximize-Profits](https://github.com/RosLeo/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
   - [Statistics Analysis on mpg dataset](https://github.com/RosLeo/Statistica-e-Analisi-dei-Dati)
 
