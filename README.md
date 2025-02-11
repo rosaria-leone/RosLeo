@@ -7,7 +7,7 @@
 - <b> Natural Language Processing (NLP) 🗣️ </b>
   - [Emotion Detection on Twitter Challenge Open Data PlayGround](https://github.com/RosLeo/Emotion-Detection-Challenge-on-Twitter)
   - [Text Summarization with mBART](https://github.com/RosLeo/Text-summarization)
-  - [Classification of European Union Laws into Chapters and Subchapters](https://github.com/RosLeo/ITADATAhack2023)
+  - [Classification of European Union Laws into Chapters and Subchapters Open Data PlayGround](https://github.com/RosLeo/ITADATAhack2023)
 - <b> Reinforcement Learning (RL) 🌟 </b>
   - [Trading Algorithm using Q learning to Maximize Profits](https://github.com/RosLeo/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
