@@ -10,7 +10,7 @@
 - <b> Reinforcement Learning (RL) 🌟 </b>
   - [Trading-Algorithm-using-Q-learning-to-Maximize-Profits](https://github.com/giusgenito/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
-  - [Statistics Analysis on mpg dataset](https://github.com/giusgenito/StatisticaEAnalisiDati)
+  - [Statistics Analysis on mpg dataset](https://github.com/RosLeo/Statistica-e-Analisi-dei-Dati)
 
 <h2> Thank you for visiting my GitHub! </h2>  
 
