@@ -11,6 +11,10 @@
   - [Trading-Algorithm-using-Q-learning-to-Maximize-Profits](https://github.com/RosLeo/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
   - [Statistics Analysis on mpg dataset](https://github.com/RosLeo/Statistica-e-Analisi-dei-Dati)
+- <b>GIS - Geographic information system 🌎</b>
+  - [Distributori di carburante a Firenze](https://github.com/RosLeo/Distributori-di-carburante-a-Firenze)
+  - [Open Source Web Map with QGIS](https://github.com/RosLeo/Open-Source-Web-Map-with-QGIS)
+  
 
 <h2> Thank you for visiting my GitHub! </h2>  
 
