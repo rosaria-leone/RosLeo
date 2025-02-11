@@ -4,6 +4,7 @@
 
 - <b> Computer Vision (CV) 📺</b>
   - [Spoken Language Recognition without Audio](https://github.com/RosLeo/Spoken-Language-Recognition-without-Audio)
+  - [Brain Tumor Semantic Segmentation](https://github.com/RosLeo/Brain_Tumor_Semantic_Segmentation)
 - <b> Natural Language Processing (NLP) 🗣️ </b>
   - [Emotion Detection on Twitter Challenge Open Data PlayGround](https://github.com/RosLeo/Emotion-Detection-Challenge-on-Twitter)
   - [Text Summarization with mBART](https://github.com/RosLeo/Text-summarization)
