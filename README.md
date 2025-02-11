@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Computer Vision (CV) 📺</b>
-  - [Spoken-Language-Recognition-without-Audio](https://github.com/giusgenito/Spoken-Language-Recognition-without-Audio)
+  - [Spoken-Language-Recognition-without-Audio](https://github.com/RosLeo/Spoken-Language-Recognition-without-Audio)
 - <b> Natural Language Processing (NLP) 🗣️ </b>
   - [Emotion-Detection-on-Twitter Challenge Open Data PlayGround](https://github.com/RosLeo/Emotion-Detection-Challenge-on-Twitter)
   - [Text-Summarization with mBART](https://github.com/RosLeo/Text-summarization)
