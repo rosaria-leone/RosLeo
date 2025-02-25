@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b> Bioinformatica 🧬</b>
+  - [SNN Cancer Detection via Blood](https://github.com/RosLeo/SNN-Cancer_Detection_via_Blood.git)
 - <b> Computer Vision (CV) 📺</b>
   - [Spoken Language Recognition without Audio](https://github.com/RosLeo/Spoken-Language-Recognition-without-Audio)
   - [Brain Tumor Semantic Segmentation](https://github.com/RosLeo/Brain_Tumor_Semantic_Segmentation)
